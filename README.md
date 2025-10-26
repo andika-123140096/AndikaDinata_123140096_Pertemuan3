@@ -10,6 +10,26 @@ Live website: https://andika-dinata-123140096-pertemuan3.vercel.app/
 - Untuk routingnya saya menggunakan react-router-dom supaya bisa benar-benar SPA.
 - Untuk stylingnya saya menggunakan tailwindcss v4
 
+## Cara menjalankan projectnya
+
+Lakukan npm install terlebih dahulu.
+
+```bash
+npm install
+```
+
+Kemudian jalankan command ini
+
+```bash
+npm run dev
+```
+
+atau bisa juga
+
+```bash
+vite
+```
+
 ## Credits
 
 Nama: Andika Dinata
