@@ -32,6 +32,6 @@ vite
 
 ## Credits
 
-Nama: Andika Dinata
-NIM: 123140096
-Kelas: RA
+| Nama          | NIM       | Kelas |
+| ------------- | --------- | ----- |
+| Andika Dinata | 123140096 | RA    |
